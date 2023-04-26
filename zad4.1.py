@@ -57,6 +57,7 @@ while True:
 #             print("Napisz program wyświetlający 4 wiersz tabliczki mnożenia (4,8,...,40) za pomoca pętli (dowolnej). Użyj mnożenia i pętli do wyznaczenia kolejnych elementów.")
 #     elif znak == "q":
 #         break
+#Zmiana
 
 
 
