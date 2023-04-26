@@ -58,6 +58,7 @@ while True:
 #     elif znak == "q":
 #         break
 #Zmiana
+#Zmiana2
 
 
 
