@@ -34,7 +34,7 @@ while True:
     if liczba %7==0:
         print("Ta liczba jest podzielna przez 7")
     if liczba %8==0:
-        print("Ta liczba jest podzielna przez 8")
+        print("Ta liczba jest podzielna przez 883949344934809438")
     if liczba %9==0:
         print("Ta liczba jest podzielna przez 9")
 
